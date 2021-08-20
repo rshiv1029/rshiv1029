@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<a href="https://github.com/rshiv1029/github-stats">
+ 
+![](https://github.com/rshiv1029/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/rshiv1029/github-stats/blob/master/generated/languages.svg)
+
+</a>
+
 <!--
 **rshiv1029/rshiv1029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
