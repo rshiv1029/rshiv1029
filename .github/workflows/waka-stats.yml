@@ -1,4 +1,4 @@
-name: Waka Stats
+name: Waka Readme
 
 on:
   schedule:
@@ -7,11 +7,10 @@ on:
   workflow_dispatch:
 jobs:
   update-readme:
-    name: Profile Readme Development Stats
+    name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@V3
-
+      - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKA_TOKEN }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
