@@ -16,7 +16,7 @@
 
 > 🏆 26 Contributions in the Year 2021
  > 
-> 📦 20.1 kB Used in GitHub's Storage 
+> 📦 20.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -78,7 +78,7 @@ Jupyter Notebook         1 repo              ████░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/rshiv1029/rshiv1029/main/charts/bar_graph.png) 
 
 
- Last Updated on 03/10/2021
+ Last Updated on 04/10/2021
 <!--END_SECTION:waka-->
 
 <!--
